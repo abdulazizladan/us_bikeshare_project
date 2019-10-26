@@ -9,3 +9,8 @@ Abdulaziz Ladan
 	python3 bikeshare.py
 ```
 
+##Dependencies
+	python v3
+	numpy
+	pandas
+
