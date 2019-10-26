@@ -1,3 +1,6 @@
+""""
+	Import time, pandas, numpy and sys libraries that are necessary for the program to run.
+"""
 import time
 import pandas as pd
 import numpy as np
