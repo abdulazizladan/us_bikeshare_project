@@ -6,12 +6,12 @@ Abdulaziz Ladan
 
 <<<<<<< .merge_file_qFTOfv
 =======
-## Running
+## Running the program
 ```bash
 	python3 bikeshare.py
 ```
 
-##Dependencies
+## Dependencies
 	python v3
 	numpy
 	pandas
